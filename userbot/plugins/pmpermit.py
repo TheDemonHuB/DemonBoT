@@ -13,7 +13,7 @@ CACHE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba"
 USER_BOT_WARN_ZERO = "╭∩╮( `A´ )╭∩╮\n\nEnough spam for today!!!\n\nI can't deal with this anymore (✿≖‸≖ )凸\nNow let my Master Decide to UNBLOCK YOU or not"
-USER_BOT_NO_WARN = "`Hello,This is DemonBoT.\n\n\nI am currently not dealing right now with anyone if you got ripped its totally your problem\n\n\nMy Master is offline right now!!!\n\n👇Drop Message for My Master here`\n\n @bakchodistan `\n\n**DON'T SPAM!!!!**\n\n `"
+USER_BOT_NO_WARN = "`Hello,This is DemonBoT.\n\n\nMy Master is offline right now!!!\n\nLeave your message Bro I will reply you when I will come online BTW  THIS IS AN AUTOMATED MESSAGE BY MY BOT`\n\n**DON'T SPAM!!!!**\n\n `"
 
 
 if Var.PRIVATE_GROUP_ID is not None:
